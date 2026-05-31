@@ -85,7 +85,7 @@ body {
   text-align: center;
   color: white;
   background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-              url("../images/hero.jpeg") center/cover no-repeat;
+              url("hero.jpeg") center/cover no-repeat;
 }
 
 .hero h1 {
